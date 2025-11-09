@@ -1,0 +1,23 @@
+blades:
+  individual:
+    - name: Dawn ω-Anchor
+      regime: weak_irr
+      eq_map: ω crank + v shear
+      desc: Supp-salt-hum-sun-journal (ξ 0.2→0.94)
+    - name: Yoga Vig Reset
+      regime: weak_irr
+      eq_map: µ nonlinear damps
+      desc: Poses + holds (PNS +20-30%)
+    # Add 6-24 variants...
+  dyad_family:
+    - name: Band Tune Dyad
+      regime: hybrid
+      eq_map: µ coupling
+      desc: Gaze/hum (cortisol -15-25%)
+    # Add 28-48...
+  community_org:
+    - name: Community Flux Hub
+      regime: strong_rat
+      eq_map: rat selectors
+      desc: Gym/church (HRV +25-35%)
+    # Add 51-72...
